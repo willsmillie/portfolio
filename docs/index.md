@@ -2,7 +2,7 @@
 
 ## I design & build software!
 
-### Web, mobile, backend
+Web, mobile, backend
 
 ## :art: Projects
 

@@ -2,7 +2,7 @@
 
 ## Will Smillie
 
-### Software Engineer
+Software Engineer
 
 UI UX / Web / Mobile / Backend
 
