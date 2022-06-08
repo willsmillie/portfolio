@@ -4,6 +4,8 @@ site_name: 'Will Smillie'
 site_url: https://willsmillie.me/
 theme:
   name: material
+  icon:
+    logo: octicons/smiley-16 # material/developer-board
   palette:
     primary: deep purple
   font:
