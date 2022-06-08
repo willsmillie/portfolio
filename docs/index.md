@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Will
+# 👋 Hi, I'm Will
 
 ## I design & build software!
 
