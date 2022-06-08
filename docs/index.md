@@ -28,7 +28,7 @@ Some things I do
 
 Multi(programming)lingual
 
-> :memo: **Fun Fact:** my high school did not accept programming as a foreign language credit bc it doesnt have culture... ok _shrug_
+> :memo: **Fun Fact:** my high school did not accept programming as a foreign language credit bc it "doesn't have culture"... ok :shrug:
 
 - Swift
 - Objective C
