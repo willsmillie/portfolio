@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Will
 
-> **Fun Fact:** my high school did not accept programming as a foreign language credit bc it doesnt have culture... ok _shrug_
-
 ## I design & build software!
 
 ### Web, mobile, backend
