@@ -1,6 +1,6 @@
 # mkdocs.yml
 
-site_name: 'Portfolio'
+site_name: 'Will Smillie'
 site_url: https://willsmillie.me/
 theme:
   name: material
