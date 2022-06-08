@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Will
+# :wave: Hi, I'm Will
 
 ## I design & build software!
 
@@ -8,10 +8,12 @@
 
 Here are some things I've made
 
-- Mine - Digital DropBox
-- PartyPlayer - Votable Playlists
-- Memo - Music Notebook
+- Mine - Digital Dropbox & File Tagger
+- ESGMachine - Social-Issue Data Game
+- Golf Buckets - Golf Club Rewards CMS
 - OP-1 Manager - Audio-workstation for a popular synthesizer designed in Sweden
+- Memo - Music Notebook
+- PartyPlayer - Votable Playlists
 
 ## :muscle: Skills
 
