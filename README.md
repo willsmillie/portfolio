@@ -1,10 +1,15 @@
 # portfolio.github.io
 
+
+
 requirements
-`pip install mkdocs`
+
+`pip install -r requirements.txt`
 
 development
+
 `mkdocs serve`
 
 deployment
+
 `gh-deploy`

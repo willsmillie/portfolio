@@ -22,13 +22,13 @@ Some things I do
 - Native iOS app design & development
 - Responsive web app design & development
 - Unix environments & command line interfaces
-- Reverse-engineering & Runtime extensions
+- Reverse-engineering & Runtime modifications
 
 ## :abacus: Languages & Frameworks
 
 Multi(programming)lingual
 
-> :memo: **Fun Fact:** my high school did not accept programming as a foreign language credit bc it "doesn't have culture"... ok :shrug:
+> :memo: **Fun Fact:** my high school wouldn't accept programming as a foreign-language credit bc it "doesn't have culture"... ok :shrug:
 
 - Swift
 - Objective C
@@ -57,13 +57,14 @@ Just some tools in the chest that is my noggin
 
 Some things I'm proud of
 
-- Designed and implemented a Digital Rights Management (DRM) & Payment Processor resulting upwards 30,000 units sold
-- Implemented a feature allowing for two devices synchronize playback to within 200ms
+- Designed and implemented a DRM (Digital Rights Management) & Payment Processor resulting in upwards of 30,000 units sold
+- Implemented an algorithm to synchronize audio-playback across devices to within 200ms
 
 ## :mag: Interests
 
 Some things I like to follow
 
+- Clean Architecture
 - Emerging Technologies
 - Info-Sec
 - Fin-tech
