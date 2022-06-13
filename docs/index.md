@@ -30,6 +30,7 @@ Some things I do
 
 - Native iOS app design & development
 - Responsive web app design & development
+- REST / GraphQL API interfacing
 - Unix environments & command line interfaces
 - Reverse-engineering & Runtime modifications
 - Circuit Design & Soldering
@@ -84,4 +85,3 @@ Some things I like to follow
 - Scripting & Automation
 - AI & ML
 - Free and open source software
-

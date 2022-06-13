@@ -1,22 +1,22 @@
 # mkdocs.yml
 
-site_name: "Will Smillie"
-site_url: https://willsmillie.me/
+site_name: 'Will Smillie'
+site_url: https://willsmillie.github.io/portfolio
 theme:
   name: material
   icon:
     logo: octicons/smiley-16 # material/developer-board
   palette:
-    - media: "(prefers-color-scheme: light)"
+    - media: '(prefers-color-scheme: light)'
       scheme: light
       primary: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
+    - media: '(prefers-color-scheme: dark)'
       scheme: slate
       primary: deep purple
-    - media: "(prefers-color-scheme: auto)"
+    - media: '(prefers-color-scheme: auto)'
       toggle:
         icon: material/theme-light-dark
         name: Switch to light mode
