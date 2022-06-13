@@ -11,9 +11,18 @@ Here are some things I've made
 - Mine - Digital Dropbox & File Tagger
 - ESGMachine - Social-Issue Data Game
 - Golf Buckets - Golf Club Rewards CMS
+- Adventure Audio
+- Vivit
+- Opt-In
 - OP-1 Manager - Audio-workstation for a popular synthesizer designed in Sweden
 - Memo - Music Notebook
 - PartyPlayer - Votable Playlists
+- PullOver
+- HomeButton Plus
+- Notchification
+- ChatHeads
+- ChargeAnimations
+- Enclave DRM & Payment Gateway
 
 ## :muscle: Skills
 
@@ -23,6 +32,9 @@ Some things I do
 - Responsive web app design & development
 - Unix environments & command line interfaces
 - Reverse-engineering & Runtime modifications
+- Circuit Design & Soldering
+- Microcontroller Programming
+- Sound design & Audio Engineering
 
 ## :abacus: Languages & Frameworks
 
@@ -71,3 +83,5 @@ Some things I like to follow
 - Web3 & Smart Contracts
 - Scripting & Automation
 - AI & ML
+- Free and open source software
+
