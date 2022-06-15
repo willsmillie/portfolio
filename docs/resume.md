@@ -20,7 +20,7 @@ willsmillie.me
 
 ## Experience
 
-### Sr iOS Developer
+### Developer
 
 **OPT-IN** CA, Jan-April 2021 (contractor)
 
