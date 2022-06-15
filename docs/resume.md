@@ -22,9 +22,9 @@ willsmillie.me
 
 ### Sr iOS Developer
 
-**OPTIN** CA, Jan-April 2021 (contractor)
+**OPT-IN** CA, Jan-April 2021 (contractor)
 
-Responsible for the development and overseeing the iOS and Android apps and their respective teams, facilitating communications, patterns and practices, architecture and tools, and implementation of scope, and communication with the platforms REST APIs.
+Responsible for the development and overseeing the iOS and Android apps and their respective teams, facilitating communications, patterns and practices, architecture and tools, implementation of scope, and communication with the platforms REST APIs.
 
 ### Principal
 
@@ -58,5 +58,5 @@ Founder of software & product development agency, providing planning, design, de
 Monroe Community College
 Rochester, NY
 
-Pittsford Sutherland
+Sutherland High School
 Rochester, NY

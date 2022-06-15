@@ -4,6 +4,8 @@ site_name: 'Will Smillie'
 site_url: https://willsmillie.github.io/portfolio
 theme:
   name: material
+  font:
+    text: Kanit
   icon:
     logo: octicons/smiley-16 # material/developer-board
   palette:
@@ -20,11 +22,9 @@ theme:
       toggle:
         icon: material/theme-light-dark
         name: Switch to light mode
-
-  font:
-    text: Kanit
 markdown_extensions:
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
