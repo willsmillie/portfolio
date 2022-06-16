@@ -1,13 +1,13 @@
 # mkdocs.yml
 
 site_name: 'Will Smillie'
-site_url: https://willsmillie.github.io/portfolio
+site_url: https://willsmillie.me
 theme:
   name: material
   font:
     text: Kanit
-  icon:
-    logo: octicons/smiley-16 # material/developer-board
+  logo: img/icon.png
+  favicon: img/icon.png
   palette:
     - media: '(prefers-color-scheme: light)'
       scheme: light
