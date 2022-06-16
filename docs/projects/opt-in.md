@@ -1,3 +1,3 @@
-# Opt-In
+# OptIn
 
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+![OptIn](../img/optin.jpg)

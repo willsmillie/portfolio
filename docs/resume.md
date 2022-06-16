@@ -1,62 +1,63 @@
 # 📄 Resume
 
-# Will Smillie
+# **William F Smillie**
 
-## Software Engineer
+Email: will@smillie.me
 
-858 519-7386
+Website: willsmillie.me
 
-will@smillie.me
+## **Technical Skills**
 
-willsmillie.me
+Fluent in architecting / building web & mobile applications using Swift, Objective-C, Javascript (React, Vue, Node), Python, and Ruby.
 
-## Professional Profile
+## **Experience**
 
-**History of conceptualizing and executing successful product development and releases** across multiple platforms, driven by rapid & efficient development cycles via scalable MVPs (minimum viable products) and user feedback.
+### Tech Lead / Senior Software Engineer
 
-**Project Planning, UX/UI, Full-Stack (frontend & backend), API Integration, Scripting, Git** experience with over 10 years of developing and deploying projects
+OptIn Jan-April 2021 (contractor)
 
-** Swift, Objective-C, Javascript, ReactJS, ReactNative, Unix & MacOS environments ** are some of the languages & frameworks in which I have experience.
+- Leveraged various web and mobile technologies to build a native, data-driven ios app.
+- Worked extensively with SwiftUI and Combine to create a lightweight, reactive mobile app.
+- Implemented reusable components to quickly build and release new features.
+- Communicated and collaborated closely with teams around the world to design and implement functionality between web, mobile, and backend.
 
-## Experience
+### Software Consultant
 
-### Developer
+Red Door Endeavors 2015-present
 
-**OPT-IN** CA, Jan-April 2021 (contractor)
+- My software consulting company, specializing in rapid design and development of web and mobile apps.
+- Worked closely with project managers / owners to design and build custom products to their unique specifications.
+- Implemented continuous integration and deployment suites, ensuring projects are tested and released frequently.
 
-Responsible for the development and overseeing the iOS and Android apps and their respective teams, facilitating communications, patterns and practices, architecture and tools, implementation of scope, and communication with the platforms REST APIs.
+## **Professional Profile**
 
-### Principal
+- **History of conceptualizing and executing successful product development & releases** across multiple platforms, driven by rapid & efficient development cycles via scalable MVPs (minimum viable products) and user feedback.
 
-**Red Door Endeavors**, NY 2015-present
+- **Project Planning, UX/UI, Full-Stack (frontend & backend), API Integration, Scripting, Git** experience with over 10 years of developing and deploying projects
 
-Founder of software & product development agency, providing planning, design, development, and support for software, spanning multiple industries and mediums.
+- **Swift, Objective-C, Javascript, ReactJS, ReactNative, Unix and MacOS environments** are some of the languages & frameworks in which I have experience.
 
-- Strategic planning & execution
-- UX / UI Design
-- Web and mobile app development
-- Backend and API design, development and integration
+### Highlights
 
-## Highlights
-
-- 10+ years of developing and deploying software
+- 10+ years of designing, developing, and deploying software spanning multiple industries and environments.
 - Designed and implemented a DRM (Digital Rights Management) & Payment Processor resulting in more than 30,000 units sold.
-- Implemented an algorithm to synchronize audio-playback across devices to within 200ms
+- Implemented an algorithm for an app which synchronizes audio-playback across multiple remote devices, all to within 200ms.
 
-## Expertise
+### Expertise
 
-- Strategic planning & execution
+- Strategic planning and execution
 - Fullstack web and mobile Development
-- API implementation & integration
+- API implementation and integration
 - Bootstraping projects
 - Programming patterns
+- Reverse engineering
 - Market research
-- Communication & Leadership
+- Communication and leadership
 
-## Education
+## **Education**
 
-Monroe Community College
-Rochester, NY
+- Monroe Community College
+  Rochester, NY
 
-Sutherland High School
-Rochester, NY
+- Sutherland High School
+  Rochester, NY
