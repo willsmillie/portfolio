@@ -1,3 +1,3 @@
 # Notchification
 
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+![Notchification](../../img/notchification.png)

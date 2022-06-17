@@ -1,4 +1,4 @@
-# 📄 Resume
+#
 
 # **William F Smillie**
 
@@ -26,8 +26,8 @@ OptIn Jan-April 2021 (contractor)
 Red Door Endeavors 2015-present
 
 - My software consulting company, specializing in rapid design and development of web and mobile apps.
-- Worked closely with project managers / owners to design and build custom products to their unique specifications.
-- Implemented continuous integration and deployment suites, ensuring projects are tested and released frequently.
+- Work closely with project managers / owners to design and build custom products to their unique specifications.
+- Implement continuous integration and deployment suites, ensuring projects are tested and released frequently.
 
 ## **Professional Profile**
 

@@ -1,3 +1,3 @@
 # OptIn
 
-![OptIn](../img/optin.jpg)
+![OptIn](../img/optin.png)

@@ -1,3 +1,3 @@
 # ChargeAnimations
 
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+![Charge Animations](../../img/chargeanimations.png)

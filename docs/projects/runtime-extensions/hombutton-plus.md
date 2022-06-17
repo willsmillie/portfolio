@@ -1,3 +1,3 @@
 # HomeButton Plus
 
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+![Home Button Plus](../../img/homebuttonplus.png)

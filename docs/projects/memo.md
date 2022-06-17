@@ -1,3 +1,3 @@
 # Memo
 
-![Image title](../img/memo.jpg)
+![Memo](../img/memo.png)
