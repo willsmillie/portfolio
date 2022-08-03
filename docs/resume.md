@@ -10,7 +10,7 @@ Phone: 858 519 7386
 
 ## **Technical Skills**
 
-Fluent in designing, architecting & deploying web, mobile, and server applications using Swift, Objective-C, Javascript, Python, Ruby, employing various popular technologies.
+Fluent in designing, architecting, and deploying web, mobile, and server applications using Swift, Objective-C, Javascript, Python, Ruby, employing various popular technologies.
 
 ## **Experience**
 
@@ -51,11 +51,11 @@ Fluent in designing, architecting & deploying web, mobile, and server applicatio
 
 - **Groovebox** (ios): Drum machine / sequencer app featuring an minimal, analogue style interface and authentic drum samples.
 - **Tuner** (ios): Simple, no-frills tuner app with a minimal ui helping you to tune your guitar or other instrument.
-- **Mine** (ios): Digital dropbox for quickly and easily saving, tagging and organizing images & links in an aesthetic fashion.
+- **Mine** (ios): Digital dropbox for quickly and easily saving, tagging and organizing images & links in an aesthetically-pleasing fashion.
 - **Value Guide** (web): Digital brand value guide exploring & demonstrating the clients product offerings and their advantages.
-- **Political Science Data Game** (web): Users rank & submit their subjective relevance of social-issues, helping the client collect useful & methodical data.
+- **Political Science Data Game** (web): Users rank & submit their subjective significance of social-issues, helping the client collect useful & methodical data.
 - **Golf Rewards CMS** (web): member onboarding, rewards management, and customer-facing webapp & backend with event-queue to sequence SMS notifications.
-- **OP-1 Manager** (ios): Backup, playback, and upload samples & projects for the Sweedish-designed mini-synthesizer.
+- **OP-1 Manager** (ios): Backup, playback, and upload samples & projects for the Swedish-designed mini-synthesizer.
 - **PartyPlayer** (ios & web): social, votable playlists in which the highest-ranked song plays next, allows participants to listen simultaneously.
 - **Plugin DRM** (web, mobile & backend): Payment processor and software redemption framework for plugins & runtime extensions.
 
@@ -78,4 +78,4 @@ Fluent in designing, architecting & deploying web, mobile, and server applicatio
   Rochester, NY
 
 - Sutherland High School
-  Rochester, NY
+  Pittsford, NY
