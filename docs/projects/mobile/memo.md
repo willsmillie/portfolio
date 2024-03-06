@@ -1,6 +1,6 @@
 # Memo
 
-![Memo](../img/memo.png)
+![Memo](../../img/memo.png)
 
 Voice memos for writers & musicians
 

@@ -1,6 +1,6 @@
 # Social-Issue Ranking Game
 
-![Social Issues](../img/social-issues.png)
+![Social Issues](../../img/social-issues.png)
 
 Data science analysis toolkit
 

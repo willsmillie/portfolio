@@ -1,6 +1,6 @@
 # PartyPlayer
 
-![Image title](../img/partyplayer.png)
+![PartyPlayer](../../img/partyplayer.png)
 
 Social, votable playlists
 

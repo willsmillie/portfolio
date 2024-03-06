@@ -1,6 +1,6 @@
 # Tuner
 
-![Tuner](../img/tuner.png)
+![Tuner](../../img/tuner.png)
 
 A simple, no-frills tuner
 

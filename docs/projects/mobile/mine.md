@@ -1,6 +1,6 @@
 # Mine
 
-![Mine](../img/mine.png)
+![Mine](../../img/mine.png)
 
 Digital dropbox & tagger
 

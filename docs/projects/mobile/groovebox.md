@@ -1,6 +1,6 @@
 # Groovebox
 
-![Groovebox](../img/groovebox.png)
+![Groovebox](../../img/groovebox.png)
 
 Analog style drum machine & sequencer
 

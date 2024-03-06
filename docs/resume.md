@@ -14,6 +14,22 @@ Fluent in designing, architecting, and deploying web, mobile, and server applica
 
 ## **Experience**
 
+### Grow Bread
+
+#### Fullstack Developer
+
+##### 2023-present (contractor)
+
+Responsible for securely interfacing & persisting data from Plaid's API, developing an advanced personal-finance forecasting algorithm, paired with a snappy responsive webapp.
+
+### MIT
+
+#### Fullstack Developer
+
+##### 2021-present (contractor)
+
+Responsible for developing & maintaining a dynamic web based game & CMS enabling professors to collect ESG related preferences from students.
+
 ### Red Door Endeavors
 
 #### Founder / Design & Development
@@ -45,7 +61,7 @@ Fluent in designing, architecting, and deploying web, mobile, and server applica
 
 - **Swift, Objective-C, Javascript, Python, Ruby** are some of the languages I often work with.
 
-- **Bootstrap, MUI, SwiftUI, UIKit, REST API, GraphQl, Express, React, ReactNative** are a few libraries & frameworks in which I have experience.
+- **Google Cloud, React, MUI, SwiftUI, UIKit, REST, GraphQl, Express, ReactNative** are a few libraries & frameworks in which I have experience.
 
 ### Projects
 
@@ -61,7 +77,7 @@ Fluent in designing, architecting, and deploying web, mobile, and server applica
 
 ### Expertise
 
-- 10+ years of designing, developing, and deploying software spanning multiple industries and environments.
+- 13+ years of designing, developing, and deploying software spanning multiple industries and environments.
 - Strategic planning and execution
 - Fullstack web and mobile Development
 - API implementation and integration

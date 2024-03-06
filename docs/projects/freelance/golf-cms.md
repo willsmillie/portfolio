@@ -1,6 +1,6 @@
 # Golf CMS
 
-![Golf CMS](../img/golf-cms.png)
+![Golf CMS](../../img/golf-cms.png)
 
 Content management system for customer rewards.
 

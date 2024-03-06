@@ -8,15 +8,28 @@ Web, mobile, backend
 
 Here are some things I've made
 
-- Mine - Digital Dropbox & File Tagger
+Apple Vision Pro:
+
+- Synthesthesia - Spatial Synth - Create music with gestures & animations
+
+Web:
+
+- Make-a-Mint - Interactive NFT Design platform
+- NFTToolK.it - dApp toolbox for NFT creators/artists.
+- MintStream - NFT Based streaming platform
 - ESGMachine - Social-Issue Data Game
 - Golf Buckets - Golf Club Rewards CMS
-- Adventure Audio
-- Vivit
+
+iOS:
+
+- Mine - Digital Dropbox & File Tagger
 - Opt-In
 - OP-1 Manager - Audio-workstation for a popular synthesizer designed in Sweden
 - Memo - Music Notebook
 - PartyPlayer - Votable Playlists
+
+iOS Jailbreak Extensions:
+
 - PullOver
 - HomeButton Plus
 - Notchification
