@@ -10,7 +10,7 @@ Phone: 858 519 7386
 
 ## **Technical Skills**
 
-Fluent in designing, architecting, and deploying web, mobile, and server applications using Swift, Objective-C, Javascript, Python, Ruby, employing various popular technologies.
+Fluent in designing, architecting, and deploying web, mobile, and server applications using Swift, Objective-C, TypeScript, Javascript, Python, Ruby, employing various popular technologies.
 
 ## **Experience**
 
@@ -44,7 +44,7 @@ Responsible for developing & maintaining a dynamic web based game & CMS enabling
 
 #### iOS Developer
 
-##### 2021 (contract project)
+##### 2021 (contractor)
 
 - Leveraged various web and mobile technologies to build a native, data-driven ios app.
 - Worked extensively with SwiftUI and Combine to create a lightweight, reactive mobile app.
@@ -59,12 +59,15 @@ Responsible for developing & maintaining a dynamic web based game & CMS enabling
 
 - **Xcode, Instruments, VSCode, Adobe (Photoshop, Illustrator, AfterEffects), Sketch** are programs I frequently use.
 
-- **Swift, Objective-C, Javascript, Python, Ruby** are some of the languages I often work with.
+- **Typescript, Javascript, Swift, Objective-C, Python, Ruby** are some of the languages I often work with.
 
 - **Google Cloud, React, MUI, SwiftUI, UIKit, REST, GraphQl, Express, ReactNative** are a few libraries & frameworks in which I have experience.
 
 ### Projects
 
+- **Synthesthesia** (apple vision): Spatial Synthesizer for Apple Vision Pro; make music with gestures.
+- **Make-A-Mint** (web): Interactive NFT Design Platform offering a one-stop-shop for artists to distribute their art via interactive NFT music players, books, or photo galleries.
+- **NFTToolK.it** (web): Essential utilities for creators interacting with Loopring NFTs.
 - **Groovebox** (ios): Drum machine / sequencer app featuring an minimal, analogue style interface and authentic drum samples.
 - **Tuner** (ios): Simple, no-frills tuner app with a minimal ui helping you to tune your guitar or other instrument.
 - **Mine** (ios): Digital dropbox for quickly and easily saving, tagging and organizing images & links in an aesthetically-pleasing fashion.
